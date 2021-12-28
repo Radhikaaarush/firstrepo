@@ -3,6 +3,8 @@ Welocme to telusko kitchen
 This is kheer
 next one is pasta
 chicken fry
+beans
+pizza
 
 
 
@@ -10,4 +12,8 @@ chicken fry
 
 Thank you:)
 
+
+Done my changes
+
 Final Copy
+
